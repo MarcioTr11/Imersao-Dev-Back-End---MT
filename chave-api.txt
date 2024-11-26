@@ -1,0 +1,7 @@
+AIzaSyC92CBU9E68NVpUE2uYR6JLy2XBzI5Qp9Q
+
+Senha banco dados MONGODB
+mtmarcio
+Fw2vBK6YOBwBYwzJ
+
+mongodb+srv://mtmarcio:Fw2vBK6YOBwBYwzJ@cluster0.xb76j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
